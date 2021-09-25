@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning Projects
 
-- 🌱 I’m currently learning Data Science, Web Development 
+- 🌱 I’m currently learning Data Science and Web Development. 
 
-- 👯 I’m looking to collaborate on Projects and Researchers 
+- 👯 I’m looking to collaborate with Researchers and creators 
 
 - 💬 Talk to me about Python, Open Source, Natural Language Processing, Convolution Neural Network, Artifical Neural Network. 
 
